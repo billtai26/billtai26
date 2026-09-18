@@ -19,7 +19,7 @@ Hi, My name's Anh Tài. <br>I'm a Software Engineer.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=billtai26&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github.com/billtai26/movies-app.git)
 
 ---
 [![](https://komarev.com/ghpvc/?username=billtai26&icon=4&color=0)](https://visitcount.itsvg.in)
