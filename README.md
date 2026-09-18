@@ -12,14 +12,11 @@ Hi, My name's Anh Tài. <br>I'm a Software Engineer.
 ![](https://streak-stats.demolab.com/?user=billtai26&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=billtai26&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=billtai26&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github.com/billtai26/movies-app.git)
+[![Repo Card](https://github-readme-stats.shion.dev/api/pin/?username=billtai26&repo=movies-app&theme=dark)](https://github.com/billtai26/movies-app)
 
 ---
 [![](https://komarev.com/ghpvc/?username=billtai26&icon=4&color=0)](https://visitcount.itsvg.in)
