@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, My name's Anh Tài. <br>I'm a Software Engineer.
+👋Hi, My name's Anh Tài. <br>👨‍💻I'm a Software Engineer.
 
 
 ## 🌐 Socials:
