@@ -22,12 +22,6 @@
 
 ###
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=billtai26.billtai26&"  />
-</div>
-
-###
-
 <h3 data-importer="text" align="left">👩‍💻  About Me</h3>
 
 ###
