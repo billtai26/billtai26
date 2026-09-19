@@ -16,6 +16,12 @@
 
 ###
 
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=billtai26.billtai26&"  />
+</div>
+
+###
+
 <h3 data-importer="text" align="left">👩‍💻  About Me</h3>
 
 ###
@@ -59,5 +65,11 @@
 ###
 
 <h3 data-importer="text" align="left">🔥   My Stats :</h3>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=billtai26&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
