@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="center">Hi alient! Welcome to the Earth and visit my github👋</h1>
+<h1 data-importer="text" align="center">Hello alien! Welcome to the Earth and visit my github👋</h1>
 
 ###
 
