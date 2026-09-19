@@ -26,7 +26,7 @@
 
 ###
 
-<p data-importer="text" align="left">- 🇻🇳 I'm come from Viet Nam<br>- 🔭 I’m working as Backend Developer.<br>- 📚 I'm currently learning NestJS<br>- ⚡ In my free time I like to play video games, watch youtube videos, do exercises.</p>
+<p data-importer="text" align="left">- <img src="https://flagcdn.com/24x18/vn.png" alt="Vietnam Flag" width="20" /> I'm come from Viet Nam<br>- 🔭 I’m working as Backend Developer.<br>- 📚 I'm currently learning NestJS<br>- ⚡ In my free time I like to play video games, watch youtube videos, do exercises.</p>
 
 ###
 
